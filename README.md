@@ -171,6 +171,57 @@ This project demonstrates practical skills in:
 - Business Intelligence
 
 ---
+## DAY 10 — Understand K-Means Clustering Theory
+Clustering is an unsupervised machine learning technique.
+
+That means:
+
+We do NOT provide labels
+The algorithm finds hidden patterns automatically
+
+Example:
+
+Imagine customer data:
+
+Customer	Revenue	Orders
+A	10000	50
+B	9500	45
+C	300	2
+D	250	1
+
+The algorithm notices:
+
+A & B are similar
+C & D are similar
+
+So it forms groups (clusters).
+
+Euclidean Distance Formula
+
+The Euclidean distance formula says:
+
+d = √[ (x2 – x1)2 + (y2 – y1)2]
+where,
+
+   - (x1, y1) are the coordinates of one point.
+   (x2, y2) are the coordinates of the other point.
+  -  d is the distance between (x1, y1) and (x2, y2).
+  
+  ## DAY 11-12 - Interpret Clusters
+
+  Meaning:
+
+Cluster 0:
+
+spends more
+buys often
+bought recently
+
+Cluster 3:
+
+spends less
+buys rarely
+long inactive period
 
 # Author
 
@@ -187,3 +238,6 @@ Aspiring Data Analyst | AI/ML Enthusiast | Python Developer
 - Seaborn
 - Data Analysis
 - Machine Learning
+
+
+
