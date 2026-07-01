@@ -82,7 +82,7 @@
 
 ---
 
-## Day 8 – RFM Analysis
+## Day 6,7,8 – RFM Analysis
 
 Built complete RFM (Recency, Frequency, Monetary) table for customer segmentation.
 
@@ -171,7 +171,7 @@ This project demonstrates practical skills in:
 - Business Intelligence
 
 ---
-## DAY 10 — Understand K-Means Clustering Theory
+## DAY 9,10 — Understand K-Means Clustering Theory
 Clustering is an unsupervised machine learning technique.
 
 That means:
